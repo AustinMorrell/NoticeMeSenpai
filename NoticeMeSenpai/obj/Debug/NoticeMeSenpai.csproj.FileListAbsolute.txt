@@ -1,0 +1,6 @@
+c:\users\austin.morrell\documents\visual studio 2015\Projects\NoticeMeSenpai\NoticeMeSenpai\bin\Debug\NoticeMeSenpai.exe.config
+c:\users\austin.morrell\documents\visual studio 2015\Projects\NoticeMeSenpai\NoticeMeSenpai\bin\Debug\NoticeMeSenpai.exe
+c:\users\austin.morrell\documents\visual studio 2015\Projects\NoticeMeSenpai\NoticeMeSenpai\bin\Debug\NoticeMeSenpai.pdb
+c:\users\austin.morrell\documents\visual studio 2015\Projects\NoticeMeSenpai\NoticeMeSenpai\obj\Debug\NoticeMeSenpai.csprojResolveAssemblyReference.cache
+c:\users\austin.morrell\documents\visual studio 2015\Projects\NoticeMeSenpai\NoticeMeSenpai\obj\Debug\NoticeMeSenpai.exe
+c:\users\austin.morrell\documents\visual studio 2015\Projects\NoticeMeSenpai\NoticeMeSenpai\obj\Debug\NoticeMeSenpai.pdb
